@@ -52,14 +52,16 @@
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishjethva18&theme=cobalt" />
+        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishjethva18&theme=cobalt" />
       </td>
       <td align="center">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishjethva18&layout=compact&theme=cobalt&hide_empty=false&v=refresh_99" />
+        <img height="200" src="https://raw.githubusercontent.com/anishjethva18/anishjethva18/main/github-metrics.svg" />
       </td>
     </tr>
     <tr>
