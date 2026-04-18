@@ -52,22 +52,8 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anishjethva18&theme=cobalt" height="210" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://raw.githubusercontent.com/anishjethva18/anishjethva18/main/github-metrics.svg" height="210" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anishjethva18&theme=cobalt" width="100%" />
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishjethva18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
