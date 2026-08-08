@@ -62,17 +62,16 @@
   
 </div>
 
+
+<!-- <div>
 ---
-
-### 📊 GitHub Analytics
-
-<div>
+  ### 📊 GitHub Analytics
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=anishjethva18&layout=compact&langs_count=20&hide_border=false"
     height="250"
     alt="Most Used Languages"
   />
-</div>
+</div> -->
 
 ---
 
