@@ -24,6 +24,8 @@
 - ⚙️ Deeply interested in **OS Architecture**, **Computer Networking**, and **Numerical Analysis**.
 - 🌱 Constantly learning new ways to **optimize code** and enhance **UI/UX design**.
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
