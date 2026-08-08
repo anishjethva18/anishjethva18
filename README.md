@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Anish%20Jethva&fontSize=70&theme=cobalt" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=ANISH%20JETHVA&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Student&descAlignY=58" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Java+%7C+Python+%7C+PHP+Developer;Building+Creative+Projects)](https://git.io/typing-svg)
+
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Anish%20Jethva&fontSize=70&theme=cobalt" /> -->
 </div>
 
 <div align="center">
@@ -16,7 +20,7 @@
 
 ---
 
-### ⚡ A Little Bit About Me
+## ⚡ A Little Bit About Me
 
 - 🎓 **M.Sc. CA & IT Student** focused on advanced software systems and information technology.
 - 💻 **Web Developer** dedicated to building clean, interactive, and high-performance applications.
@@ -26,28 +30,36 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,php,c,mysql,java,python,git,github,vscode,linux,postman"/> -->
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,java,js,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Cloud • Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</p>
+
+  
 </div>
 
 ---
