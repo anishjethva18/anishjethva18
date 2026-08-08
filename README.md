@@ -52,8 +52,12 @@
 
 ### 📊 GitHub Analytics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishjethva18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div>
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=anishjethva18&layout=compact&langs_count=20&hide_border=false"
+    height="250"
+    alt="Most Used Languages"
+  />
 </div>
 
 ---
