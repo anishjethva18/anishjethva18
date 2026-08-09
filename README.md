@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6C63FF,50:7C3AED,100:4F46E5&text=Anish%20Jethva&fontColor=ffffff&fontSize=45&fontAlignY=38" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Java+%7C+Python+%7C+PHP+Developer;Building+Creative+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Software+Developer;Full+Stack+Developer;Web+Developer;Java+%7C+Python+%7C+PHP+Developer;Data+Analysis+%7C+AI+ML;Building+Creative+Projects)](https://git.io/typing-svg)
 
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Anish%20Jethva&fontSize=70&theme=cobalt" /> -->
 </div>
